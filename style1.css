@@ -1,0 +1,552 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+.main {
+    background-color: blue;
+
+}
+
+.line {
+    /* background-color: red; */
+    display: flex;
+    justify-content: center;
+
+}
+
+.nav-link{
+    cursor: pointer;
+}
+
+.box {
+    /* background-color: blueviolet; */
+    color: aliceblue;
+    display: flex;
+    /* padding-left: 40px; */
+    align-items: center;
+}
+
+.box h6 {
+    padding-left: 5px;
+    padding-top: 5px;
+}
+
+.box-1 {
+    /* background-color: rgb(226, 43, 43); */
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+}
+
+.box-1 h6 {
+    padding-left: 6px;
+    padding-top: 5px;
+}
+
+.box-2 {
+    /* background-color: blueviolet; */
+    color: aliceblue;
+    display: flex;
+    justify-content: space-evenly;
+    /* align-items: center; */
+}
+
+.icon {
+    /* background-color: aqua; */
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+
+.first {
+    background-color: whitesmoke;
+    font-size: 20px;
+}
+
+.box-3 {
+    /* background-color: red; */
+    text-align: center;
+    height: 50px;
+}
+
+.box-4 ul {
+    /* background-color: brown; */
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+    color: gray;
+}
+
+.box-5 {
+    /* background-color: yellow; */
+    display: flex;
+    justify-content: end;
+}
+
+.second {
+    background-color: whitesmoke;
+}
+
+.box-6 {
+    /* background-color: yellow; */
+}
+
+.box-6 h1 {
+    /* font-size: 80px; */
+}
+
+.box-7 {
+    /* display: flex; */
+    /* background-color: orange; */
+    text-align: center;
+}
+
+.box-7 h1 {
+    color: blue;
+}
+
+.content {
+    /* background-color: blueviolet; */
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.box-8 {
+    /* display: flex; */
+    width: 100%;
+    /* background-color: yellow; */
+}
+
+.sk {
+
+    /* width: 100%; */
+    border-radius: 50px;
+    height: 50px;
+    outline: 2px solid blue;
+}
+
+.sg {
+    background-color: blue;
+    border-radius: 50px;
+    height: 50px;
+    outline: 2px solid blue;
+}
+
+
+
+.box-9 {
+    /* background-color: red; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button {
+    width: 100%;
+    padding-top: 50px;
+    border-radius: 20px;
+    display: flex;
+    border: lightblue;
+
+}
+
+.hero {
+    /* background-color: brown; */
+}
+
+.care {
+    /* background-color: chartreuse; */
+}
+
+.care h1 {
+    font-size: 50px;
+}
+
+.btn {
+    width: 40%;
+    height: 50px;
+    font-size: 20px;
+}
+
+.img {
+    border-radius: 30px;
+    margin-top: 50px;
+    /* background-color: blueviolet; */
+}
+
+.hlo {
+    /* display: flex; */
+}
+
+.card-1 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.box-11 {
+    /* background-color: brown; */
+    text-align: center;
+}
+
+.box-12 {
+    /* background-color: rgb(42, 165, 97); */
+    text-align: center;
+}
+
+.card-1 {
+    /* background-color: blueviolet; */
+}
+
+.image-2 {
+    background-color: red;
+}
+
+.card {
+    text-align: center;
+    /* background-color: aquamarine; */
+    margin-top: 50px;
+}
+
+.card ul {
+    list-style: none;
+}
+
+.card li {
+    display: flex;
+}
+
+.card-2 {
+    /* background-color: aqua; */
+}
+
+.third {
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+.fourth {
+    /* background-color: chartreuse;  */
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+.hg {
+    color: blue;
+}
+
+.fifth {
+    background-color: blue;
+    color: aliceblue;
+    margin-top: 40px;
+    border-radius: 20px;
+}
+
+.content {
+
+    /* background-color: red; */
+}
+
+.sixth {
+    /* background-color: aqua; */
+}
+
+.image{
+    /* background-color: #0dfd6d; */
+}
+
+.qws {
+    border-radius: 50px;
+    width: 50%;
+    height: 50px;
+}
+
+.image h3{
+    color: #0d6efd;
+}
+
+.derm{
+    /* background-color: yellow; */
+    /* margin-left: 20px; */
+}
+
+h6 {
+    /* background-color: blue; */
+    color: blue;
+}
+
+.seventh {
+    background-color: aliceblue;
+    /* height: 600px; */
+}
+
+.image-3 {
+    /* background-color: brown; */
+    text-align: center;
+
+}
+
+.image-4 img {
+    width: 200px;
+    height: 200px;
+    border-radius: 200px;
+    object-fit: cover;
+    /* background-color: aqua; */
+}
+
+
+.image-3 h6 {
+    font-size: 20px;
+}
+
+.image-3 p {
+    font-size: 10px;
+    color: grey;
+}
+
+.eight{
+    /* background-color: aqua; */
+}
+
+
+.nine {
+    /* background-color: #0d6efd; */
+    background-color: whitesmoke;
+}
+
+
+
+.ninth {
+    margin-top: 30px;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 30px;
+    width: 100%;
+    gap: 50px;
+
+}
+
+.find {
+    /* background-color: aqua; */
+    text-align: center;
+}
+
+.health {
+    /* background-color: aquamarine; */
+    text-align: center;
+}
+
+.name input {
+    outline: none;
+    border: none;
+    padding: 0 10px;
+}
+
+.doc {
+    width: 100%;
+    height: 70px;
+    border-radius: 20px;
+}
+
+.ten {
+    /* background-color: blue; */
+}
+
+.tenth {
+    /* background-color: brown; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+
+.card {
+    /* width: 40%; */
+    /* height: 300px; */
+    padding: 30px 0px;
+
+    /* background-color: red; */
+}
+
+.amanda {
+    /* gap: 20px; */
+    /* background-color: aquamarine; */
+    width: 100%;
+}
+
+
+.amanda-1 {
+    /* background-color: rgb(127, 255, 155); */
+    width: 60%;
+    /* margin-left: 30px; */
+}
+
+.amanda-1 img {
+    border-radius: 30px;
+}
+
+.amanda-2 {
+    width: 100%;
+    height: 200px;
+    /* background-color: red; */
+
+}
+
+.amanda-2 span {
+    /* margin-top:40px; */
+    /* width: 100%; */
+    /* background-color: aquamarine; */
+}
+
+.cardio {
+    /* back/ground-color: pink; */
+    /* width: 100%; */
+    /* height: 100px; */
+}
+
+.star {
+    color: rgba(165, 165, 39, 0.614);
+}
+
+.button-5 {
+    /* background-color: blueviolet; */
+
+}
+
+.detail {
+    width: 40%;
+    height: 50px;
+    font-size: 20px;
+    /* border-radius: 20px; */
+    /* color: aqua; */
+    /* background-color: blue; */
+}
+
+.book {
+    width: 40%;
+    height: 50px;
+    /* background-color: blue; */
+}
+
+.all {
+    /* width: 100%; */
+    height: 50px;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    /* background-color: blueviolet; */
+}
+
+.eleven {
+    /* padding: 100px 100px; */
+    display: flex;
+    justify-content: center;
+    /* background-color: red; */
+    height: 600px;
+}
+
+.excell {
+    /* background-color: brown ; */
+    padding-top: 200px;
+}
+
+.excell h1 {
+    font-size: 50px;
+}
+
+.excell p {
+    color: rgb(80, 69, 69);
+    padding-top: 10px;
+}
+
+.class a {
+    text-decoration: none;
+    color: grey;
+}
+
+.class a:hover {
+    color: blue;
+}
+
+.facilite img {
+    padding-top: 100px;
+}
+
+.advan {
+    padding-top: 100px;
+    /* background-color: brown; */
+}
+
+
+.twelve {
+    /* background-color: aqua; */
+}
+
+
+.footer i {
+    color: blue;
+}
+
+.thirteen {
+    /* background-color: red; */
+}
+
+.studio ul li {
+    list-style: none;
+}
+
+.studio h6 {
+    color: black;
+}
+
+ul li:hover {
+    color: rgb(33, 33, 134);
+}
+
+.footer-bottom {
+    border-top: 1px solid #cbced0;
+    margin-top: 50px;
+    padding-top: 20px;
+    font-size: 14px;
+    color: #6c757d;
+    /* background-color: aqua; */
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}
+
+.sunil {
+    /* background-color: #a5abb4; */
+    /* text-align: center; */
+}
+
+.bm {
+    /* display: flex; */
+    /* justify-content: center; */
+    /* align-items: center; */
+    /* text-align: center; */
+    /* background-color: #0d6efd; */
+}
+
+.scroll-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background: #0d6efd;
+    color: #fff;
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
